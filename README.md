@@ -1,2 +1,3 @@
-# pxt-microbit-docs
-Docs and spanish translation of pxt-microbit/docs
+# pxt-microbit-courses
+
+Split commits from pxt-microbit for just the courses directory
